@@ -117,7 +117,7 @@
 
 За HTML-звітом непокритим залишився рядок 13 – `throw` для некоректного `percent`. Жоден із початкових тестів не передавав невалідну знижку, тому ця гілка не виконувалась.
 
-![HTML Coverage report](/lb_3/screenshots/Test%20coverage%20is%20incomplete..png)
+![HTML Coverage report](screenshots/coverage-before.png)
 
 ### Додатковий тест
 
@@ -135,7 +135,7 @@
 | Functions | 100% |
 | Lines | 100% |
 
-![HTML Coverage report після доповнення](images/coverage-after.png)
+![HTML Coverage report](screenshots/coverage-after.png)
 
 ## Висновок
 
